@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ТипыЦен" id="ef148a06-7e9f-414e-bb3b-5df808c8d161" configVersion="bcf411c40dc3af4185c98c7a761665e800000000"/>
+		<Metadata name="Catalog.ТипыЦен.Predefined" id="ef148a06-7e9f-414e-bb3b-5df808c8d161.1c" configVersion="a88097cb72ad6147be55c3be830485ee00000000"/>
+		<Metadata name="Role.ОсновнаяРоль" id="8c658e81-6647-4749-852f-9d507af5304e" configVersion="55c1e6119bf9fb4eb1867442a44c291b00000000"/>
+		<Metadata name="Role.ОсновнаяРоль.Rights" id="8c658e81-6647-4749-852f-9d507af5304e.0" configVersion="25c03063c2aa704baee7c035f0aee0c700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
